@@ -1,0 +1,6 @@
+transaction_date,account_number,transaction_type,amount,currency,description,category
+2025-06-01,1234567890,DEPOSIT,1000,USD,Salary for June,INCOME
+2025-06-02,1234567890,WITHDRAWAL,200,USD,ATM Withdrawal,EXPENSE
+2025-06-03,9876543210,TRANSFER,500,EUR,Transfer to savings,TRANSFER
+2025-06-04,1234567890,FEE,15,USD,Monthly account fee,CHARGES
+2025-06-05,9876543210,DEPOSIT,12000,EUR,Freelance payment,INCOME

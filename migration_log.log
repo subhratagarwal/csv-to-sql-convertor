@@ -1,0 +1,38 @@
+2025-06-25 02:26:50,203 - BankingDataMigration - INFO - Test log entry
+2025-06-25 02:26:50,214 - BankingDataMigration - INFO - Migration started at 2025-06-25 02:26:50.214341
+2025-06-25 02:26:50,214 - BankingDataMigration - INFO - Starting migration for: sample_data.csv
+2025-06-25 02:26:50,307 - BankingDataMigration - INFO - Loaded 5 records from sample_data.csv
+2025-06-25 02:26:50,334 - BankingDataMigration - INFO - Data validation complete. 5 valid records remaining
+2025-06-25 02:26:50,366 - BankingDataMigration - INFO - Database schema initialized
+2025-06-25 02:26:50,372 - BankingDataMigration - INFO - Inserted 5 records into database
+2025-06-25 02:26:50,372 - BankingDataMigration - INFO - Progress: 5/5 records migrated
+2025-06-25 02:26:50,376 - BankingDataMigration - INFO - Migration completed successfully. 5/5 records migrated
+2025-06-25 02:26:50,376 - BankingDataMigration - INFO - Migration completed in 0:00:00.162449
+2025-06-25 02:28:40,878 - BankingDataMigration - INFO - Migration started at 2025-06-25 02:28:40.878280
+2025-06-25 02:28:40,878 - BankingDataMigration - INFO - Starting migration for: sample_data.csv
+2025-06-25 02:28:40,886 - BankingDataMigration - INFO - Loaded 5 records from sample_data.csv
+2025-06-25 02:28:40,896 - BankingDataMigration - INFO - Data validation complete. 5 valid records remaining
+2025-06-25 02:28:40,912 - BankingDataMigration - INFO - Database schema initialized
+2025-06-25 02:28:40,920 - BankingDataMigration - INFO - Inserted 5 records into database
+2025-06-25 02:28:40,921 - BankingDataMigration - INFO - Progress: 5/5 records migrated
+2025-06-25 02:28:40,926 - BankingDataMigration - INFO - Migration completed successfully. 5/5 records migrated
+2025-06-25 02:28:40,927 - BankingDataMigration - INFO - Migration completed in 0:00:00.048907
+2025-06-25 02:57:26,744 - BankingDataMigration - INFO - Migration started at 2025-06-25 02:57:26.744692
+2025-06-25 02:57:26,745 - BankingDataMigration - INFO - Starting migration for: sample_data.csv
+2025-06-25 02:57:26,766 - BankingDataMigration - INFO - Loaded 5 records from sample_data.csv
+2025-06-25 02:57:26,791 - BankingDataMigration - WARNING - Found 1 invalid transaction types
+2025-06-25 02:57:26,802 - BankingDataMigration - INFO - Data validation complete. 4 valid records remaining
+2025-06-25 02:57:26,805 - BankingDataMigration - INFO - Database schema initialized
+2025-06-25 02:57:26,814 - BankingDataMigration - INFO - Inserted 4 records into database
+2025-06-25 02:57:26,814 - BankingDataMigration - INFO - Progress: 4/4 records migrated
+2025-06-25 02:57:26,815 - BankingDataMigration - INFO - Migration completed successfully. 4/4 records migrated
+2025-06-25 02:57:26,815 - BankingDataMigration - INFO - Migration completed in 0:00:00.071034
+2025-06-25 03:03:17,117 - BankingDataMigration - INFO - Migration started at 2025-06-25 03:03:17.117391
+2025-06-25 03:03:17,117 - BankingDataMigration - INFO - Starting migration for: sample_data.csv
+2025-06-25 03:03:17,145 - BankingDataMigration - INFO - Loaded 5 records from sample_data.csv
+2025-06-25 03:03:17,157 - BankingDataMigration - INFO - Data validation complete. 5 valid records remaining
+2025-06-25 03:03:17,175 - BankingDataMigration - INFO - Database schema initialized
+2025-06-25 03:03:17,180 - BankingDataMigration - INFO - Inserted 5 records into database
+2025-06-25 03:03:17,180 - BankingDataMigration - INFO - Progress: 5/5 records migrated
+2025-06-25 03:03:17,184 - BankingDataMigration - INFO - Migration completed successfully. 5/5 records migrated
+2025-06-25 03:03:17,184 - BankingDataMigration - INFO - Migration completed in 0:00:00.066900
